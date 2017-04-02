@@ -1,4 +1,9 @@
 #! /bin/sh
+#
+# PATH:/etc/init.d/thunder
+# NOTE:Thunder Downloads Configrue file
+# DATE:2017-04-01
+#
 ### BEGIN INIT INFO
 # Provides:          thunder
 # Required-Start:    $local_fs $network
