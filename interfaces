@@ -3,6 +3,8 @@
 #
 # PATH:/etc/network/interfaces
 # NOTE:网桥配置
+# DATE:2017-02-16
+# VERSION:v1.0
 source-directory /etc/network/interfaces.d
 
 # The loopback network interface
