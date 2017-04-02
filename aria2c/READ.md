@@ -9,7 +9,7 @@ aria2c下载器的配置
 ```
 .
 ├── aria2.conf		--主配置文件
-├── dht.dat			--DHT下载数据
-└── READ.md			--介绍
+├── dht.dat		--DHT下载数据
+└── READ.md		--介绍
 ```
 
